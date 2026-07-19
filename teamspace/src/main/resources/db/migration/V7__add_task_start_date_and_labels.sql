@@ -1,0 +1,5 @@
+ALTER TABLE tasks
+    ADD COLUMN start_date DATE NULL;
+
+ALTER TABLE tasks
+    ADD COLUMN labels VARCHAR(500) NULL;

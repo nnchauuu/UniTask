@@ -1,0 +1,16 @@
+[
+  {
+    "date": "2026-07-17",
+    "macrostructure": "Index-First",
+    "theme": "Cobalt",
+    "enrichment": "none",
+    "brief": "UniTask · inline workspace project browser"
+  },
+  {
+    "date": "2026-07-17",
+    "macrostructure": "Workbench",
+    "theme": "Cobalt",
+    "enrichment": "none",
+    "brief": "UniTask · dashboard visual refinement (inferred from CSS stamp)"
+  }
+]

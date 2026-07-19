@@ -1,0 +1,11 @@
+.run/
+.idea/
+*.iml
+.env
+
+teamspace/target/
+
+frontend/node_modules/
+frontend/dist/
+
+*.log

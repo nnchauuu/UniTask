@@ -1,0 +1,16 @@
+{
+  "date": "2026-07-17",
+  "scope": "frontend design-token refactor",
+  "font_stack": "Inter via Google Fonts and --ui-font-sans",
+  "palette": "Existing --ui-* aliases plus hard-coded colors in frontend/src/App.css",
+  "motion": "motion-cut; no motion library detected",
+  "spacing": "No shared scale before refactor; introducing a 4px token scale",
+  "framework": "React 19 with Vite 7 and Bootstrap 5",
+  "preserve": [
+    "font stack",
+    "current rendered color values",
+    "selector order",
+    "layout",
+    "React components"
+  ]
+}
